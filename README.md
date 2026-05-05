@@ -79,7 +79,7 @@ https://manus.im/app/M55JUU1Xw5MAlThEjCHkFz
 
 ## 📱 QR Code
 
-> Insira aqui o QR Code gerado pela Manus AI para facilitar o teste do app
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://manus.im/app/M55JUU1Xw5MAlThEjCHkFz)
 
 ---
 
@@ -106,6 +106,6 @@ O aplicativo está funcional e pode ser testado através de:
 
 ## 👨‍💻 Autor
 
-Seu Nome Aqui
+Raiana Vilardo Martin da Silva
 
 ---
